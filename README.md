@@ -7,9 +7,9 @@
 
 Olist is a Brazilian e-commerce marketplace connecting small sellers to major retail channels. Despite strong order growth through 2017, the platform faces three operational challenges:
 
-- **Declining customer satisfaction** — average review score of 4.09/5.0 with high-revenue categories scoring below 4.1
-- **Poor customer retention** — 96.2% of customers never place a second order
-- **Uneven delivery performance** — northeastern states average 21+ days delivery vs 8.7 days in São Paulo
+- **Declining customer satisfaction** - average review score of 4.09/5.0 with high-revenue categories scoring below 4.1
+- **Poor customer retention** - 96.2% of customers never place a second order
+- **Uneven delivery performance** - northeastern states average 21+ days delivery vs 8.7 days in São Paulo
 
 This project analyses 99,441 orders across 8 relational tables to identify the root causes of these problems and deliver actionable recommendations to the operations head.
 
@@ -17,7 +17,7 @@ This project analyses 99,441 orders across 8 relational tables to identify the r
 
 ## Dataset Overview
 
-**Source:** [Olist Brazilian E-Commerce Public Dataset — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+**Source:** [Olist Brazilian E-Commerce Public Dataset - Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 | Table | Rows | Description |
 |---|---|---|
@@ -30,7 +30,7 @@ This project analyses 99,441 orders across 8 relational tables to identify the r
 | olist_sellers | 3,095 | Seller location by state |
 | product_category_name_translation | 71 | Portuguese → English category names |
 
-**Period covered:** September 2016 – August 2018
+**Period covered:** September 2016 - August 2018
 **Geography:** 27 Brazilian states
 
 ---
