@@ -1,0 +1,12 @@
+# Raw data files — too large for GitHub
+data/raw/
+data/clean/
+*.csv
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment files
+.env
+*.pyc
